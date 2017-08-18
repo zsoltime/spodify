@@ -1,0 +1,29 @@
+{
+  "name": "spodify",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsoltime/spodify.git"
+  },
+  "keywords": [
+    "spotify",
+    "api",
+    "oauth"
+  ],
+  "author": "Zsolt Meszaros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zsoltime/spodify/issues"
+  },
+  "homepage": "https://github.com/zsoltime/spodify#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "memory-cache": "^0.2.0",
+    "request": "^2.81.0"
+  }
+}
